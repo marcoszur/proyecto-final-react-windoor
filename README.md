@@ -4,9 +4,9 @@ Fábrica y comercialización de aberturas de aluminio, ubicada en la ciudad de P
 
 Diseño y estructura:
 
-*Desarrollada en "React", cuenta con 3 secciones, con información y galería de imagenes del contenido de la empresa, y otra
+*Desarrollada en React/Node.js y javaScript, cuenta con 3 secciones, con información y galería de imagenes del contenido de la empresa, y otra
 con un formulario de contacto con un CRUD, con conección a Base de Datos en Mongo DB de registro de consultas de personas, de 
-busqueda y actualizacion de los registros con sus respectivas rutas.
+busqueda y actualizacion de los registros, con sus respectivas rutas.
 *La página funciona correctamente tanto el Front como el Backend.
 
 Dev: Marcos M. Zurlo.
