@@ -4,7 +4,7 @@ Fábrica y comercialización de aberturas de aluminio, ubicada en la ciudad de P
 
 Diseño y estructura:
 
-*Desarrollada en "React", cuenta con 2 páginas, una página principal con información y galería de imagenes del contenido de la empresa y otra
+*Desarrollada en "React", cuenta con 3 secciones, con información y galería de imagenes del contenido de la empresa, y otra
 con un formulario de contacto con un CRUD, con conección a Base de Datos en Mongo DB de registro de consultas de personas, de 
 busqueda y actualizacion de los registros con sus respectivas rutas.
 *La página funciona correctamente tanto el Front como el Backend.
@@ -14,3 +14,6 @@ email: andreszurlocolotti@gmail.com
 tel: 3572543854.
 
 Trabajo para entrega de proyecto final de PWA - UTN - Buenos Aires.
+
+Para levantar la página hay que hacer un "git clone" y una ves abierto
+en el editor de códigos hacer un npm install en el cmd.
