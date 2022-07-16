@@ -8,7 +8,6 @@ Diseño y estructura:
 con un formulario de contacto con un CRUD, con conección a Base de Datos en Mongo DB de registro de consultas de personas y de 
 busqueda y actualizacion de los registros (con sus respectivas rutas).
 La página funciona correctamente tanto el Front como el Back.
-
 Para levantar la página hay que hacer un "git clone" y una ves abierto
 en el editor de códigos hacer un npm install en el cmd.
 
