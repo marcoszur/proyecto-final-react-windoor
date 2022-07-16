@@ -4,10 +4,10 @@ Fábrica y comercialización de aberturas de aluminio, ubicada en la ciudad de P
 
 Diseño y estructura:
 
-*Desarrollada en React/Node.js y javaScript, cuenta con 3 secciones, con información y galería de imagenes del contenido de la empresa, y otra
-con un formulario de contacto con un CRUD, con conección a Base de Datos en Mongo DB, de registro de consultas de personas, de 
-busqueda y actualizacion de los registros, con sus respectivas rutas.
-La página funciona correctamente tanto el Front como el Backend.
+*Desarrollada en React/Node.js y javaScript, cuenta con 3 secciones navegables (información e la empresa, servicios al cliente y galería de imagenes), y otra
+con un formulario de contacto con un CRUD, con conección a Base de Datos en Mongo DB de registro de consultas de personas y de 
+busqueda y actualizacion de los registros (con sus respectivas rutas).
+La página funciona correctamente tanto el Front como el Back.
 
 Para levantar la página hay que hacer un "git clone" y una ves abierto
 en el editor de códigos hacer un npm install en el cmd.
