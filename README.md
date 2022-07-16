@@ -1,4 +1,4 @@
-Título: "Desarrollo web" (www.windoor.com.ar) no deployada todavía en ningun hosting pago.
+Título: "Desarrollo web" / www.windoor-front.herokuapp.com
 
 Fábrica y comercialización de aberturas de aluminio, ubicada en la ciudad de Pilar - provincia de Córdoba. (cp:5972)
 
@@ -9,11 +9,13 @@ con un formulario de contacto con un CRUD, con conección a Base de Datos en Mon
 busqueda y actualizacion de los registros, con sus respectivas rutas.
 *La página funciona correctamente tanto el Front como el Backend.
 
+*Para levantar la página hay que hacer un "git clone" y una ves abierto
+en el editor de códigos hacer un npm install en el cmd.
+
 Dev: Marcos M. Zurlo.
 email: andreszurlocolotti@gmail.com
 tel: 3572543854.
 
-Trabajo para entrega de proyecto final de PWA - UTN - Buenos Aires.
+Trabajo para entrega de proyecto final PWA - UTN - Buenos Aires.
 
-Para levantar la página hay que hacer un "git clone" y una ves abierto
-en el editor de códigos hacer un npm install en el cmd.
+
